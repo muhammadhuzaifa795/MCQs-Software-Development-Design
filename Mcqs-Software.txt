@@ -2,3 +2,8 @@ Link to figma file for  "MCQs Software Developement":(No Edit)
 https://www.figma.com/design/ryejtYfRDnKIp61vyiSTrZ/Untitled?node-id=0-1&t=XpNsIFmL9tCI18dM-1
 Link to figma file for  "MCQs Software Developement":(Edit)
 https://www.figma.com/design/ryejtYfRDnKIp61vyiSTrZ/Untitled?node-id=0-1&t=4vaye3JsMtgO3qy9-1
+
+Description:-
+             This project involves creating a robust software application for multiple-choice questions (MCQs). Users can register and log 
+             in, answer questions, receive instant feedback, track their progress, and view their scores. The system aims to enhance 
+             learning and assessment by providing an interactive and user-friendly experience...
